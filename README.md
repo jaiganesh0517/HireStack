@@ -97,6 +97,3 @@ src/main/java/com/jai/HireStack/
 - [ ] Add authentication for posting jobs
 - [ ] Add relevance-based sorting using Atlas Search score
 
-## License
-
-This project is currently unlicensed. Add a license of your choice if you plan to make this public and reusable.
